@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    padding-left: 10px;
+    gap: 20px;
+}
+
+.nav-logo{
+    width: 80px;
+    cursor: pointer;
+}
+
+.titulo{
+    font-size: 1.5rem;
+}
+
+.link{
+    font-size: 1.2rem;
+    color: black;
+}
+
+.link:hover{
+    color:blueviolet;
+}
+
+/* Modal btn */
+
+.main_modal{
+    height: 40vh;
+    text-align: center;
+    margin-top: 25px;
+    
+}
+
+.main_modal img{
+    width: 200px;
+    margin: 20px 0px 20px 0px;
+}
+
+.modal-card{
+    width: 580px;
+}
+
+.contenido{
+    display: flex;
+    justify-content: center;
+}
+.contenido-form{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario{
+    width: 500px;
+}

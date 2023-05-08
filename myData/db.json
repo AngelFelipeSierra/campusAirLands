@@ -1,0 +1,23 @@
+{
+    "clientes": [
+        {
+            "numeroId": "1",
+            "nombres": "angel felipe",
+            "apellidos": "sierra ordoñez",
+            "telefono": "3008546978",
+            "fechaNacimiento": "08/23/05",
+            "ciudadOrigen": "Bucaramanga",
+            "paisOrigen": "Colombia",
+            "email": "ancilli0520@gmail.com"
+        }
+    ],
+    "rutas": [
+        {
+            "nombreRuta": "",
+            "ciudadOrigen": "",
+            "cuidadDestino": "",
+            "millasTotales": "",
+            "valorMilla": ""
+        }
+    ]
+}
